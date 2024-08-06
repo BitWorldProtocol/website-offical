@@ -27,7 +27,7 @@ export const navLinks = [
     title: "主页",
   },
   {
-    id: "footerLinks",
+    id: "product",
     title: "产品&服务",
   },
   {
@@ -44,23 +44,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "行业经验丰富",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "公司团队成员来自行业内大厂和专业相关领域,有着扎实的产品、技术研发实力",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "多平台产品服务",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "公司有跨平台软硬件定制和行业解决能力，全流程、端对端为客户提供行业内产品、咨询、解决方案等服务.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "产品服务运营",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "公司坚持科技让世界变的更美好的理念，力求自始至终为行业客户提供完善的产品、运营服务体验.",
   },
 ];
 
@@ -78,7 +78,7 @@ export const feedback = [
     content:
       "栉云科技团队持续投入对核心技术和产品的研发,希望以后越来越好!",
     name: "王健",
-    title: "前万达医疗研发负责人",
+    title: "前万达信息研发负责人",
     img: people02,
   },
   {
@@ -200,6 +200,18 @@ export const socialMedia = [
 
 export const clients = [
   {
+    id: "client-7",
+    logo: wanda,
+  },
+  {
+    id: "client-8",
+    logo: nfdw,
+  },
+  {
+    id: "client-9",
+    logo: zsyh,
+  },
+  {
     id: "client-1",
     logo: airbnb,
   },
@@ -223,18 +235,7 @@ export const clients = [
     id: "client-6",
     logo: okex,
   },
-  {
-    id: "client-7",
-    logo: wanda,
-  },
-  {
-    id: "client-8",
-    logo: nfdw,
-  },
-  {
-    id: "client-9",
-    logo: zsyh,
-  },
+  
   {
     id: "client-10",
     logo: ali,

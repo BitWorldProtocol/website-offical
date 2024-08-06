@@ -8,7 +8,6 @@ import {
   Footer, 
   Hero, 
   Navbar, 
-  Stats, 
   Testimonials 
 } from './components'
 import styles from './style'
@@ -29,9 +28,10 @@ const App = () => {
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
           {/* <Stats/> */}
-          <Business/>
           <Billing/>
+          
           <CardDeal/>
+          <Business/>
           <Testimonials/>
           <Clients/>
           <CTA/>

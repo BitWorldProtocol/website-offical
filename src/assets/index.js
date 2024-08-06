@@ -30,6 +30,7 @@ import wanda from "./wanda.png";
 import nfdw from "./nfdw.png";
 import zsyh from "./zsyh.png";
 import ali from "./ali.png";
+import capacity from "./capacity.png";
 
 export {
   ali,
@@ -63,5 +64,6 @@ export {
   zhiyun,
   pingan,
   okex,
-  wanda
+  wanda,
+  capacity
 };
