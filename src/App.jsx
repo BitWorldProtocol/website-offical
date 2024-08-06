@@ -8,7 +8,9 @@ import {
   Footer, 
   Hero, 
   Navbar, 
-  Testimonials 
+  Testimonials,
+  ClientManage,
+  AI, 
 } from './components'
 import styles from './style'
 
@@ -29,12 +31,13 @@ const App = () => {
         <div className={`${styles.boxWidth}`}>
           {/* <Stats/> */}
           <Billing/>
-          
           <CardDeal/>
+          <ClientManage/>
+          <AI/>
           <Business/>
           <Testimonials/>
           <Clients/>
-          <CTA/>
+          {/* <CTA/> */}
           <Footer/>     
         </div>
       </div>

@@ -31,6 +31,8 @@ import nfdw from "./nfdw.png";
 import zsyh from "./zsyh.png";
 import ali from "./ali.png";
 import capacity from "./capacity.png";
+import marketing from "./marketing.png";
+import ai from "./ai.png";
 
 export {
   ali,
@@ -65,5 +67,8 @@ export {
   pingan,
   okex,
   wanda,
-  capacity
+  capacity,
+  marketing,
+  ai
+
 };

@@ -111,66 +111,44 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "相关链接",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "公司官网",
+        link: "",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
-      },
-      {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
-      },
-      {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
-      },
-      {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
-      },
+        name: "应用中心",
+        link: "",
+      }
     ],
   },
   {
-    title: "Community",
+    title: "社区",
     links: [
       {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        name: "帮助中心",
+        link: "",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "GitHub",
+        link: "https://github.com/BitWorldProtocol",
       },
       {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        name: "建议",
+        link: "",
       },
-      {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
+      
     ],
   },
   {
-    title: "Partner",
+    title: "合作伙伴",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "陆续加入",
+        link: "",
       },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
-      },
+      
     ],
   },
 ];

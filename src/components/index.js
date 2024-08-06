@@ -9,8 +9,11 @@ import Hero from './Hero'
 import Navbar from './Navbar'
 import Stats from './Stats'
 import Testimonials from './Testimonials'
+import ClientManage from './ClientManage'
+import AI from './AI'
 
 export {
+    AI,
     Billing,
     Business,
     CardDeal,
@@ -21,5 +24,6 @@ export {
     Hero,
     Navbar,
     Stats,
-    Testimonials
+    Testimonials,
+    ClientManage
 }
