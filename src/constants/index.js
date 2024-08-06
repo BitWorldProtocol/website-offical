@@ -12,7 +12,13 @@ import {
   dropbox, 
   send, 
   shield, 
-  star
+  star,
+  pingan,
+  okex,
+  wanda,
+  nfdw,
+  zsyh,
+  ali
 } from "../assets";
 
 export const navLinks = [
@@ -21,7 +27,7 @@ export const navLinks = [
     title: "主页",
   },
   {
-    id: "product",
+    id: "footerLinks",
     title: "产品&服务",
   },
   {
@@ -30,7 +36,7 @@ export const navLinks = [
   },
   {
     id: "clients",
-    title: "关于我们",
+    title: "合作伙伴",
   },
 ];
 
@@ -62,25 +68,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "栉云科技用市场来验证产品,以产品来验证市场.",
+    name: "Herman 李",
+    title: "创始人 & 研发总监",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "栉云科技团队持续投入对核心技术和产品的研发,希望以后越来越好!",
+    name: "王健",
+    title: "前万达医疗研发负责人",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "从点到链,重构价值!希望与栉云携手重构世界信任的基石!",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "前Okex钱包团队负责人",
     img: people03,
   },
 ];
@@ -88,17 +94,17 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "活跃用户数",
+    value: "1800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "企业客户",
+    value: "480+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "销售规模",
     value: "$230M+",
   },
 ];
@@ -208,5 +214,29 @@ export const clients = [
   {
     id: "client-4",
     logo: dropbox,
+  },
+  {
+    id: "client-5",
+    logo: pingan,
+  },
+  {
+    id: "client-6",
+    logo: okex,
+  },
+  {
+    id: "client-7",
+    logo: wanda,
+  },
+  {
+    id: "client-8",
+    logo: nfdw,
+  },
+  {
+    id: "client-9",
+    logo: zsyh,
+  },
+  {
+    id: "client-10",
+    logo: ali,
   },
 ];

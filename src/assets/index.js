@@ -24,8 +24,17 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import zhiyun from "./zhiyun.png";
+import pingan from "./pingan.png";
+import okex from "./okex.png";
+import wanda from "./wanda.png";
+import nfdw from "./nfdw.png";
+import zsyh from "./zsyh.png";
+import ali from "./ali.png";
 
 export {
+  ali,
+  zsyh,
+  nfdw,
   airbnb,
   bill,
   binance,
@@ -52,4 +61,7 @@ export {
   people02,
   people03,
   zhiyun,
+  pingan,
+  okex,
+  wanda
 };
