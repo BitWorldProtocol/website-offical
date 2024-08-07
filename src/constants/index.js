@@ -145,10 +145,21 @@ export const footerLinks = [
     title: "合作伙伴",
     links: [
       {
-        name: "陆续加入",
+        name: "中国平安",
         link: "",
       },
-      
+      {
+        name: "阿里云",
+        link: "",
+      },
+      {
+        name: "泛微网络",
+        link: "",
+      },
+      {
+        name: "OpenStack",
+        link: "",
+      },
     ],
   },
 ];
