@@ -17,8 +17,7 @@ const Hero = () => {
           Payment Method.
         </h1> */}
         <p className={`${styles.paragraph} max-w-[530px] mt-5`}>
-        栉云科技是一家为生态环境、医疗服务、客户定制化营销、大模型垂直领域应用、区块链应用等行业客户
-        提供全流程、一体化解决方案，并致力于打造和研发具有自主创新的软硬件一体化信息平台供应商。
+        栉云科技秉承“科技让世界更美好”的理念, 为生态环境、医疗服务、客户定制化营销、大模型垂直领域应用、区块链应用等行业客户提供全流程、一体化解决方案, 并致力于研发、打造具有自主智能创新应用的软硬件一体化平台。
         </p>
       </div>
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
@@ -31,9 +30,9 @@ const Hero = () => {
         <div className="absolute z-[1] w-[80%] h-[80%] rounded-full white__gradient bottom-40" />
         <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient"/>
       </div>
-      <div className={`ss:hidden ${styles.flexCenter}`}>
+      {/* <div className={`ss:hidden ${styles.flexCenter}`}>
         <GetStarted/>
-      </div>
+      </div> */}
     </section>
   )
 }
